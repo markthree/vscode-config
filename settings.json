@@ -1,0 +1,139 @@
+{
+    "editor.fontSize": 20,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 18,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.renderControlCharacters": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "prettier.arrowParens": "avoid",
+    "prettier.trailingComma": "none",
+    "prettier.useTabs": true,
+    "editor.suggestSelection": "first",
+    "editor.fontWeight": "700",
+    "material-icon-theme.folders.color": "#90a4af",
+    "editor.mouseWheelZoom": true,
+    "editor.wrappingIndent": "none",
+    "editor.cursorWidth": 2,
+    "editor.minimap.scale": 2,
+    "editor.minimap.maxColumn": 200,
+    "editor.minimap.showSlider": "always",
+    "editor.wordWrap": "on",
+    "prettier.htmlWhitespaceSensitivity": "strict",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "prettier.resolveGlobalModules": true,
+    "prettier.jsxBracketSameLine": true,
+    "workbench.activityBar.visible": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "prettier.printWidth": 60,
+    "todo-tree.tree.showScanModeButton": false,
+    "go.formatTool": "goimports",
+    "workbench.iconTheme": "material-icon-theme",
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "prettier.jsxSingleQuote": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "window.zoomLevel": 0,
+    "files.eol": "\n",
+    "eslint.alwaysShowStatus": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "eslint.format.enable": true,
+    "path-intellisense.mappings": {},
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.settings.openDefaultKeybindings": true,
+    "path-intellisense.absolutePathToWorkspace": false,
+    "json.trace.server": "messages",
+    "javascript.suggest.names": false,
+    "editor.tokenColorCustomizations": {
+        "keywords": "#E64A19", // 关键字
+        "variables": "#388E3C", // 变量名
+        "strings": "#EF6C00", // 字符串
+        "functions": "#FF0000",
+        "numbers": "#AE81FF" // 数字
+    },
+    "update.enableWindowsBackgroundUpdates": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "vetur.validation.templateProps": true,
+    "vetur.validation.template": false,
+    "editor.formatOnSave": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]"
+    ],
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+    "liveServer.settings.multiRootWorkspaceName": "",
+    "liveServer.settings.port": 0,
+    "liveServer.settings.root": "/",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "terminal.integrated.gpuAcceleration": "off",
+    "[less]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "windicss.sortOnSave": true,
+    "git.confirmSync": false,
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "debug.javascript.autoAttachFilter": "disabled",
+    "[scss]": {
+        "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    },
+    "gitlens.hovers.currentLine.over": "line",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.startupEditor": "none",
+    "volar.preview.port": 3000,
+    "redhat.telemetry.enabled": true,
+    "material-icon-theme.hidesExplorerArrows": false,
+    "projectManager.sortList": "Recent",
+    "workbench.editorAssociations": {
+        "*.js": "default"
+    },
+    "workbench.colorTheme": "Cobalt2",
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "workbench.list.smoothScrolling": true
+}
